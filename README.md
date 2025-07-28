@@ -1,10 +1,7 @@
 <h2 align="center">Hello there! My name is Tú Đinh</h2>
 <p align="left">I'm an IT student at Metropolia University of Applied Sciences. I'm learning to become a Mobile/Full Stack Developer.
   
-I'm also currently working as a License Operations Specialist at TD SYNNEX Finland Oy. 
-
-In my free time, I enjoy playing badminton and exploring history, geopolitics, cuisine, and cultures from around the world. </p>
-
+I'm currently working as a License Operations Specialist at TD SYNNEX Finland Oy. 
 
 
 ### 💼 Where i am currently working at
@@ -35,3 +32,6 @@ In my free time, I enjoy playing badminton and exploring history, geopolitics, c
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Maven]((https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white))
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
