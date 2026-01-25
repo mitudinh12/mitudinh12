@@ -8,13 +8,12 @@ I'm also working as a License Operations Specialist at TD SYNNEX Finland Oy.
 - [TD SYNNEX Finland Oy](https://fi.tdsynnex.com/) 💼 
 
 
-### 💻 What project i am currently working on
-- Android and iOS projects coming soon ...
+### 💻 My latest projects
+- [Android (Kotlin) Project](https://github.com/mitudinh12/mushroom-hunter)
 
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/mitu-dinh/) 💼
-- [Website] coming soon...
 
 
 ### 💻 My Github Stats from school's account tuMetropolia:
@@ -22,6 +21,8 @@ I'm also working as a License Operations Specialist at TD SYNNEX Finland Oy.
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -35,3 +36,4 @@ I'm also working as a License Operations Specialist at TD SYNNEX Finland Oy.
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Maven](https://img.shields.io/badge/apachemaven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
