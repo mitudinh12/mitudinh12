@@ -16,9 +16,6 @@ I'm also working as a License Operations Specialist at TD SYNNEX Finland Oy.
 - [LinkedIn](https://www.linkedin.com/in/mitu-dinh/) 💼
 
 
-### 💻 My Github Stats from school's account tuMetropolia:
-![My Github Stats](https://github-readme-stats.vercel.app/api?username=tuMetropolia&show_icons=true&theme=radical)
-
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
