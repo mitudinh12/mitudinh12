@@ -1,5 +1,5 @@
 <h2 align="center">Hello there! My name is Tú Đinh</h2>
-<p align="left">I'm currently on a learning journey in software engineering, with a focus on mobile and full-stack development.
+<p align="left">I'm currently on a learning journey in software engineering, with a focus on full-stack web development.
   
 I'm also working as a License Operations Specialist at TD SYNNEX Finland Oy. 
 
