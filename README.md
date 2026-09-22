@@ -9,8 +9,8 @@ I'm also working as a License Operations Specialist at TD SYNNEX Finland Oy.
 
 
 ### 💻 My latest projects
-- [Android (Kotlin) Project](https://github.com/mitudinh12/mushroom-hunter)
-
+- A Flutter mobile app for Design Leaders Finland Oy - coming soon to the App Store and Google Play 🚀
+- An automatic multi-camera tracking system for Levitezer Oy.
 
 ### 📫 Where to find me
 - [LinkedIn](https://www.linkedin.com/in/mitu-dinh/) 💼
@@ -18,6 +18,8 @@ I'm also working as a License Operations Specialist at TD SYNNEX Finland Oy.
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
